@@ -10,6 +10,7 @@
 # of "Ticker: Company -- $Price"
 
 class Stock:
+    
     pass
 
 # ~~~~~~~~~ TEST CODE ~~~~~~~~~
